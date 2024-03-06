@@ -1,4 +1,4 @@
-package Main
+package Main;
 import java.util.Scanner;
 import java.util.*;
 import java.util.stream.Stream;
