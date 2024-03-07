@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Main {
 	public static void main(String[] args){
         try (Scanner scanner = new Scanner(System.in)) {
+		System.out.println("昇順または降順を記入してください 例 昇順");
 			String hobbys = scanner.nextLine();
 			  Ken.ken sub = new Ken.ken();
 			 // 昇順or降順
