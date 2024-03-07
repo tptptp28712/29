@@ -5,6 +5,7 @@ import java.util.stream.Stream;
 class ken{
 	int b;
 	   public void publicMethod() {
+		System.out.println("数字を記入してください。例 1,2,3");
 	        //番号入力
 	        Scanner scanner = new Scanner(System.in);
 		 String hobby = scanner.nextLine();
@@ -24,6 +25,7 @@ class ken{
 	   }
 	    
 	    public void publicMethod2() {
+		System.out.println("数字を記入してください。例 1,2,3");
 	        //番号入力
 	        Scanner scanner = new Scanner(System.in);
 		 String hobby = scanner.nextLine();
