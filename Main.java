@@ -13,7 +13,9 @@ public class Main {
 			case "降順":
 					sub.publicMethod2();
 			break;
+                        
 			 }
 		}
+		scanner.close();
     }
 }
